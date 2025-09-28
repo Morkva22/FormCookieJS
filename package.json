@@ -1,10 +1,12 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "registration-form",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Мини-регистрационная форма с переключением языка",
+  "main": "webBase.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "open webBase.html"
   },
-  "private": true
+  "keywords": ["registration", "form", "javascript", "cookies"],
+  "author": "Student",
+  "dependencies": {}
 }
